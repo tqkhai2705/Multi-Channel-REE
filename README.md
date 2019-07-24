@@ -7,3 +7,5 @@
   - PredRNN
   - PredRNN++
   - and more.
+  \
+  (_Note: ConvGRU is uploaded in the first stage, others will be uploaded gradually_)
