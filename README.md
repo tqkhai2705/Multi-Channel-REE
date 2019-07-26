@@ -2,7 +2,7 @@
 **Data**: Radar Image Sequence\
   However, the current version has no data sample for demonstrating. It is able to check the graph-building in TensorFlow by calling `Train_FullEpoch.py`\
 **Methods**: Covolutional RNN (ConvRNN)
-  - ConvGRU
+  - ConvGRU (available now)
   - ConvLSTM
   - TrajGRU
   - PredRNN
