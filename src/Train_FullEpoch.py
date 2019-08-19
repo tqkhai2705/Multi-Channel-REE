@@ -5,7 +5,7 @@ import tensorflow as tf
 import numpy as np
 import Configs
 import TrainOps
-from Utils import DataLoader, Logging, Plotting
+from Utils import DataLoader, Logging
 
 from ConvGRU.Model_3L import Model
 
